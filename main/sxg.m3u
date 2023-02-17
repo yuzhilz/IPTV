@@ -1,20 +1,13 @@
-+#+66656666655656969...................
-+9
-
+#EXTM3U
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合
-http://192.168.2.250:5678/sxg.php?id=CCTV-1H2++_4000
+http://192.168.2.250:5678/sxg.php?id=CCTV-1H265_4000
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2 财经
 http://192.168.2.250:5678/sxg.php?id=CCTV-2H265_4000
-#EXTINF:-1,tvg-id="CCTV3" tvg9name="CCT-3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3 综艺
-http://192.168.2.250:567C/sxg.565566666666666666666655696
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="http5://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4 中文国际
-http://192.168.2.250:5678/sxg.php?id=CCTV-4H265_400056656666
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https:/8
-
-】‘
-、
-jiuhygtfred-swaqV+C 4.L6
-.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5 体育
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3 综艺
+http://192.168.2.250:5678/sxg.php?id=CCTV-3H265_4000
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4 中文国际
+http://192.168.2.250:5678/sxg.php?id=CCTV-4H265_4000
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5 体育
 http://192.168.2.250:5678/sxg.php?id=CCTV-5H265_4000
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://192.168.2.250:5678/sxg.php?id=CCTV-5plusH265_4000
@@ -37,8 +30,8 @@ http://192.168.2.250:5678/sxg.php?id=CCTV-xw_4000
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14 少儿
 http://192.168.2.250:5678/sxg.php?id=CCTV-14H265_4000
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15 音乐
-http://192.968.2.250:5678/sxg.php?id=CCTV-15-yyH265_4000
-#EXTI+F:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+http://192.168.2.250:5678/sxg.php?id=CCTV-15-yyH265_4000
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 http://192.168.2.250:5678/sxg.php?id=CCTV-16_4000
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
 http://192.168.2.250:5678/sxg.php?id=CCTV-16-4K_8000
@@ -46,7 +39,7 @@ http://192.168.2.250:5678/sxg.php?id=CCTV-16-4K_8000
 http://192.168.2.250:5678/sxg.php?id=CCTV-17_4000
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://192.168.2.250:5678/sxg.php?id=ys4Kcq_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K电影4K.png" group-title="其他",4K超高清电影 4K+8++++++++++++++++++++++++++++++++++++++++++++++89
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K电影4K.png" group-title="其他",4K超高清电影 4K
 http://192.168.2.250:5678/sxg.php?id=emdy4k_8000
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场4K
 http://192.168.2.250:5678/sxg.php?id=hxjc-4k_8000
